@@ -10,3 +10,11 @@ DATASET LINK FOR
 
 
 Prediction using Decision Tree  Algorithm : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+
+
+
+DATASET LINK FOR
+
+Handwritten Equation solver using CNN :
+
+https://www.kaggle.com/xainano/handwrittenmathsymbols 
