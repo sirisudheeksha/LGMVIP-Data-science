@@ -18,3 +18,11 @@ DATASET LINK FOR
 Handwritten Equation solver using CNN :
 
 https://www.kaggle.com/xainano/handwrittenmathsymbols 
+
+
+
+DATASET LINK FOR
+
+mood music recommendation:
+
+https://www.kaggle.com/msambare/fer2013
